@@ -1,4 +1,4 @@
-##WELCOME!!
+## WELCOME!!
 welcome to my website hosted by [github.com](github.com) this is a project of Discord Nitro Perks of [BetterDiscord](betterdiscord.app)
 
 ```markdown
